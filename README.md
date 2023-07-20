@@ -5,3 +5,6 @@
 * Try a **[live demo](https://khsakib.github.io/LieVis/)**!
 * Read the **[full paper]()**.
 * **[Cite this work and more](https://cabreraalex.com/#/paper/Lievis)**.
+
+
+![teaser figure](teaser.png)
