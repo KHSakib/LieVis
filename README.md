@@ -7,4 +7,4 @@
 * **[Cite this work and more](https://cabreraalex.com/#/paper/Lievis)**.
 
 
-![teaser figure](teaser.png)
+![teaser figure](dashboard.png)
